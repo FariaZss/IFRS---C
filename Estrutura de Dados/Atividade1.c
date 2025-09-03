@@ -78,7 +78,7 @@ int consultaPos(int lista[MAX_POS], int posList){
         printf("Posição %d: %d\n", posList, lista[posList]);
     } else {
         printf("Posicao inválida, tente novamente\n");
-    }
+    } 
 
     sleep(1);
     main();
